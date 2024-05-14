@@ -1,4 +1,4 @@
-package exception;
+package exception.exercise8_8;
 
 import java.util.*;
 class Exercise8_8

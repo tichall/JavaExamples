@@ -1,7 +1,7 @@
 package exception.exercise8_9;
 
 public class UnsupportedFunctionException extends RuntimeException {
-    final private int ERR_CODE;
+    private final int ERR_CODE;
 
     UnsupportedFunctionException(String msg, int code) {
         super(msg);
